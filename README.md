@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a 2nd year Biomedical Engineering undergraduate at the University of Moratuwa with a strong academic record (3.99/4.00 cumulative GPA). I enjoy working on problems that sit at the boundary of engineering and neuroscience — building systems that decode brain signals, detect physiological anomalies, and translate research into hardware. Outside of academics, I've competed in design contests, led student initiatives, and even placed 1st island-wide in solo singing. I bring the same curiosity and attention to detail to everything I work on.
+I'm a 2nd-year Biomedical Engineering undergraduate at the University of Moratuwa with a strong academic record (3.93/4.00 cumulative GPA). I enjoy working on problems that sit at the boundary of engineering and neuroscience — building systems that decode brain signals, detect physiological anomalies, and translate research into hardware. Outside of academics, I've competed in design contests, led student initiatives, and even placed 1st island-wide in solo singing. I bring the same curiosity and attention to detail to everything I work on.
 
 ---
 
