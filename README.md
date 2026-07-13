@@ -46,7 +46,7 @@ Using BCI and embedded systems to build tools that restore or augment human capa
 - [EEG Motor Imagery Classification using CSP and Classical ML](https://github.com/hasith2003/Motor-Imagery-Using-CSP-and-LDA-SVM)
 - [ECG Arrhythmia Classification via Transfer Learning](https://github.com/hasith2003/ECG-arrhythmia-detection.git)
 - [Portable Single-Lead ECG Monitor](https://github.com/SasithIM/Ohmies_ECG.git)
-- [Riemannian Procrustes Analysis — Subject-Independent Motor Imagery BCI](https://github.com/chalee88) *(Ongoing)*
+- [Riemannian Procrustes Analysis — Subject-Independent Motor Imagery BCI](https://github.com/chalee88/RPA-BCI-reimplementation.git) *(Ongoing)*
 
 ## ⚙️ Embedded Systems & Hardware
 
